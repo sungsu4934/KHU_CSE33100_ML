@@ -7,12 +7,11 @@
   > https://www.kaggle.com/c/khu-machine-learning-competition
 
 ### Competition에 활용된 모델
-1. LeNet
-2. VGGNet
-3. ResNet
-4. Wide-ResNet
-5. DenseNet
-6. PyramidNet
+1. VGGNet
+2. ResNet
+3. Wide-ResNet
+4. DenseNet
+5. PyramidNet
 
 ### Competition에 활용된 기술
 1. Scheduler (CosineAnnealing, Exponential LR, Loss Plateau Decay 등)
@@ -21,3 +20,4 @@
 4. Shakedrop
 5. Data Augmenation
 6. Gaussian Noise
+7. Activation Function (LeakyReLU, swish, mish ,,, 등)
