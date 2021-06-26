@@ -1,4 +1,5 @@
-# Image Classification competition
+# 2020 가을학기 머신러닝
+## Image Classification competition
 최신 CNN 모델(Densenet, PyramidNet 등)과 최신 Computer vision 기술을 활용한 Competition (파라미터 200만개 이하 제한)
  - Tool: python (pytorch, Google Colab)
  - Metric: Accuracy
