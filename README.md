@@ -1,6 +1,6 @@
 # Image Classification competition
 최신 CNN 모델(Densenet, PyramidNet 등)과 최신 Computer vision 기술을 활용한 Competition (파라미터 200만개 이하 제한)
- - Tool: python (pytorch)
+ - Tool: python (pytorch, Google Colab)
  - Metric: Accuracy
  - Rank: (5/23)
  - Data: 2D Image data (10 class)
@@ -9,7 +9,7 @@
 ### 1. 시행착오로 활용된 모델
 1. VGGNet
 2. ResNet
-3. Wide-ResNet
+3. wide-ResNet
 4. DenseNet
 5. PyramidNet
 
