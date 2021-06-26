@@ -1,7 +1,7 @@
 ## Image Classification competition
 최신 CNN 모델(Densenet, PyramidNet 등)과 최신 Computer vision 기술을 활용한 Competition
- - tool: python (pytorch)
- - metric: Accuracy
+ - Tool: python (pytorch)
+ - Metric: Accuracy
  - Rank: (5/23)
  - Data: 2D Image data (10 class)
   > https://www.kaggle.com/c/khu-machine-learning-competition
